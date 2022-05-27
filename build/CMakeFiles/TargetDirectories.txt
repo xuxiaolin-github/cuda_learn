@@ -1,0 +1,3 @@
+/home/xu/learn/cuda_learn/build/CMakeFiles/rebuild_cache.dir
+/home/xu/learn/cuda_learn/build/CMakeFiles/mattoarray.dir
+/home/xu/learn/cuda_learn/build/CMakeFiles/edit_cache.dir
